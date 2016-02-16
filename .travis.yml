@@ -1,1 +1,5 @@
-language: R
+# Sample .travis.yml for R projects
+
+language: r
+warnings_are_errors: true
+sudo: required
