@@ -1,10 +1,12 @@
 Package: travisTraining
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Title: Practising Using Travis CI Server
+Version: 0.0.1
+Authors@R: person("Nik", "Burkoff", email="dummy@gmail.com", role = c("aut", "cre"))
+Description: A skeleton package used to practice with the Travis CI server
 Depends:
     R (>= 3.1.2)
-License: What license is it under?
+Imports:
+    survival
+License: GPL-3
 LazyData: true
 RoxygenNote: 5.0.1
