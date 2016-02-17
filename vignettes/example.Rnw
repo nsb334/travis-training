@@ -1,0 +1,11 @@
+\documentclass{article}
+
+%\VignetteEngine{knitr::knitr}
+%\VignetteIndexEntry{Example}
+
+\begin{document}
+
+My Document
+
+
+\end{document}
